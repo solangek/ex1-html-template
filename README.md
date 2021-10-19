@@ -6,6 +6,7 @@ A started template for HTML project
 
 <h1>Execution</h1>
 <p>
+Here put your exercise explanations if any.
 The submission is a WebStorm project that can be run directly from the IDE.
 </p>
 <h1>Assumptions</h1>
